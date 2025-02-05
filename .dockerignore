@@ -1,0 +1,13 @@
+.DS_Store
+.editorconfig
+.env
+.env.*
+.git
+.github
+.medusa
+.vscode
+*.md
+*.log
+Dockerfile
+integration-tests/
+node_modules/
