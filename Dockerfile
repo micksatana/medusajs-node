@@ -1,4 +1,4 @@
-ARG BASE_IMAGE_TAG=22-alpine
+ARG BASE_IMAGE_TAG=24-alpine
 
 # Base image
 FROM node:${BASE_IMAGE_TAG} AS base
